@@ -39,9 +39,9 @@ added logo,navigation,website content
 - Added a map in the contact page
 - added a class called myfirststyle under css
 ### changes
-added a class called my script.js for the java script content and interaction
-improved the code by adding a date 
-added social media websites and frequently asked questions in the about page
+- added a class called my script.js for the java script content and interaction
+- improved the code by adding a date 
+- added social media websites and frequently asked questions in the about page
 
 ## References
 •	Bootstrap Documentation. (2025). Bootstrap Framework.
